@@ -1,0 +1,15 @@
+{
+    "6852803604": {
+        "unique_device_id": "Google|fb929fa3-bab8-4654-98d1-6632c806185c",
+        "brand": "Vivo",
+        "model": "V2203",
+        "gpu_renderer": "Mali-G710",
+        "system_software": "Android OS 12 / API-31",
+        "screen_width": 720,
+        "screen_height": 2400,
+        "screen_dpi": "365",
+        "memory": 5463,
+        "processor_details": "ARM64 FP ASIMD AES VMH | 2648 | 8",
+        "client_ip": "187.228.247.160"
+    }
+}
